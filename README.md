@@ -10,3 +10,5 @@ My Portfolio
 - popup slides .
 - fonts hover effect .
 - Window on scrolling animation using JAVASCRIPT Aos library .
+- Black and White Theme .
+  
